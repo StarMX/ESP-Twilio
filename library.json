@@ -1,0 +1,16 @@
+{
+  "name": "Esp Twilio",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "StarMX",
+      "url": "https://github.com/starmx"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/starmx/ESP-Twilio.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr, espressif8266, espressif32"
+}
